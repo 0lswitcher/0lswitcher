@@ -1,10 +1,10 @@
-<img align="left" src="https://raw.githubusercontent.com/0lswitcher/0lswitcher/refs/heads/main/assets/me.png" width="125" height="127">
+<img align="left" src="https://raw.githubusercontent.com/0lswitcher/0lswitcher/refs/heads/main/assets/me-transparent.png" width="125" height="127">
 
-### Yo, welcome to my profile
+### ‎Yo, welcome to my profile o7
 
-"dying to know what we live to forget"
-
-See below for some info about me o7
+‎"dying to know what we live to forget"
+  
+<br>
 
 ```
 #!/usr/bin/env bash
@@ -27,9 +27,20 @@ echo ">>> system.config()"
 echo "  → Locale: $LOCALE"
 ```
 
-🔻  Languages 
+#
+<img align="left" src="https://raw.githubusercontent.com/0lswitcher/0lswitcher/refs/heads/main/assets/containment-lab.png" width="158" height="95">
+
+### NeoLab - My Homelab
+Below is a diagram that details my homelab's structure\
+Static *for now*, just need to convert the langs for .md
+
 <br>
-<br>
+
+<img align="center" src="https://raw.githubusercontent.com/0lswitcher/0lswitcher/refs/heads/main/assets/NeoLabV4.png" width="5280" height="2815">
+
+#
+:rage1: *Languages*
+<br><br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -40,9 +51,8 @@ echo "  → Locale: $LOCALE"
 ![YAML](https://img.shields.io/badge/-YAML-C0DBDB?logo=yaml&logoColor=black)
 ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?logo=godotengine&logoColor=white)
 
-🔻  Tools
-<br>
-<br>
+:rage2:  *Tools*
+<br><br>
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
@@ -52,17 +62,15 @@ echo "  → Locale: $LOCALE"
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-🔻  OS / Distros
-<br>
-<br>
+:rage3:  *OS / Distros*
+<br><br>
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=nixos&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-34BE5B?logo=manjaro&logoColor=white)
 
 
-🔻  Browsers & Privacy
-<br>
-<br>
+:rage4:  *Browsers & Privacy*
+<br><br>
 [![Google](https://img.shields.io/badge/Google-Deleted-F54242?&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
 ![Firefox](https://img.shields.io/badge/-Firefox-FF7139?logo=firefox-browser&logoColor=white)
 ![Tor](https://img.shields.io/badge/-Tor-7E4798?logo=torproject&logoColor=white&style)
