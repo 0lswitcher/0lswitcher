@@ -12,7 +12,7 @@
 USERNAME="Morgan"
 ALIASES=("0lswitcher" "WomboCombo" "Neo64")
 LANGUAGES=("C++" "JavaScript" "Python" "HTML" "CSS" "Bash" "Nix" "GDScript")
-TOOLS=("Docker" "docker-compose" "Blender" "Git")
+TOOLS=("Docker" "docker-compose" "Blender" "ACC" "Git")
 LOCALE="en_US.UTF-8"
 
 echo ">>> identity.load()"
