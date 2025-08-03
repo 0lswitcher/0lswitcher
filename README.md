@@ -1,10 +1,10 @@
 <img align="left" src="https://raw.githubusercontent.com/0lswitcher/0lswitcher/refs/heads/main/assets/me-transparent.png" width="125" height="127">
 
-### ‎Yo, welcome to my profile o7
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=B277F7&vCenter=true&width=550&height=40&lines=Yo%2C+welcome+to+my+profile+o7;Read+below+to+learn+more+about+me+~)](https://git.io/typing-svg)
 
-‎"dying to know what we live to forget"
-  
-<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00F773&vCenter=true&width=550&height=15&lines=%22dying+to+know+what+we+live+to+forget%22+-+Me;%22facebook+wasn't+built+in+a+day%22+-+All+devs;%22rage+against+the+machine%22+-+Zack+de+la+Rocha;%22fight+the+power%22+-+Public+Enemy;%22fuck+everybody-even+me%2C+bitch+I+ain't+no+saint-all+;praise+to+the+GOD!%22+-+GODHANDUSA)](https://git.io/typing-svg)
+
+---
 
 ```
 #!/usr/bin/env bash
