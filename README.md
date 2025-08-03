@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/0lswitcher/0lswitcher/refs/heads/main/assets/me-transparent.png" width="125" height="127">
+<img align="left" src="https://raw.githubusercontent.com/0lswitcher/0lswitcher/refs/heads/main/assets/me-spin.gif" width="125" height="127">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=B277F7&vCenter=true&width=550&height=40&lines=Yo%2C+welcome+to+my+profile+o7;Read+below+to+learn+more+about+me+~)](https://git.io/typing-svg)
 
@@ -27,8 +27,16 @@ echo ">>> system.config()"
 echo "  → Locale: $LOCALE"
 ```
 
-#
-<img align="left" src="https://raw.githubusercontent.com/0lswitcher/0lswitcher/refs/heads/main/assets/containment-lab.png" width="158" height="95">
+<img align="left" src="https://raw.githubusercontent.com/0lswitcher/0lswitcher/refs/heads/main/assets/0l-dupe.gif" width="80" height="80">
+
+<h6 align="center">
+  lover of everything software and hardware<br>
+whether its programming, FOSS, SBC's, servers, or cars-i <3 learning all about it
+</h6>
+
+---
+
+<img align="right" src="https://raw.githubusercontent.com/0lswitcher/0lswitcher/refs/heads/main/assets/containment-lab.png" width="158" height="95" hspace="75">
 
 ### NeoLab - My Homelab
 Below is a diagram that details my homelab's structure\
