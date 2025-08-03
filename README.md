@@ -29,9 +29,15 @@ echo "  → Locale: $LOCALE"
 
 <img align="left" src="https://raw.githubusercontent.com/0lswitcher/0lswitcher/refs/heads/main/assets/0l-dupe.gif" width="80" height="80">
 
-<h6 align="center">
+<h5 align="center">
   lover of everything software and hardware<br>
-whether its programming, FOSS, SBC's, servers, or cars-i <3 learning all about it
+  whether its programming, FOSS, SBC's, servers, or cars-I <3 learning all about it<br>
+</h5>
+
+<br>
+<h6 align="left">
+  psst...i also care a lot about privacy and security, but that doesn't mean i won't bypass yours-<br>
+  pick any color hat i like to get my hands dirty, so excercise security measures as always
 </h6>
 
 ---
