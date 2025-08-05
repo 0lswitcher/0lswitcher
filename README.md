@@ -89,6 +89,8 @@ Static *for now*, just need to convert the langs for .md
 ![Firefox](https://img.shields.io/badge/-Firefox-FF7139?logo=firefox-browser&logoColor=white)
 ![Tor](https://img.shields.io/badge/-Tor-7E4798?logo=torproject&logoColor=white&style)
 
-<!--        
-heres how to multiline comment
--->
+:suspect:  *Other*
+<br><br>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=0lswitcher)
+
+<!-- heres how to multiline comment -->
