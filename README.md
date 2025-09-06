@@ -50,7 +50,7 @@ Static *for now*, just need to convert the langs for .md
 
 <br>
 
-<img align="center" src="https://raw.githubusercontent.com/0lswitcher/0lswitcher/refs/heads/main/assets/NeoLabV4.png" width="5280" height="2815">
+<img align="center" src="https://raw.githubusercontent.com/0lswitcher/0lswitcher/refs/heads/main/assets/NeoLabV5.png" width="5280" height="2815">
 
 #
 :rage1: *Languages*
